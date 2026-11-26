@@ -1,11 +1,11 @@
-# JustUninstallApps
+# JustUninstallApps / Just Uninstall Apps
 
 > Lightweight, free & open-source app uninstaller for Windows — fast, clean, and zero bloatware. By **IJUST-Apps**.
 > ![JustUninstallApps Main GUI](MAINGUI.jpg)
 
 ## About
 
-JustUninstallApps is a free, open-source Windows utility built by **IJUST-Apps**.
+JustUninstallApps is a free, open-source Windows utility built by **IJUST-Apps**. to Just Uninstall Apps!
 
 Most modern "PC cleaners" and uninstallers are overloaded with background services, intrusive ads, popups, and heavy resource usage. JustUninstallApps takes the opposite approach: it launches fast, stays out of your way, and gives you only the tools you actually need to remove unwanted programs and keep your system tidy.
 
