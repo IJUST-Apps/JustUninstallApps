@@ -1,0 +1,14 @@
+## Normal Users (Easiest)
+1. Go to **Releases** on GitHub and download `app.exe`.
+2. Double-click `app.exe` to run (no Python or code editor needed).
+
+## Developers / Customizing (Requires Python)
+1. Download `app.py` (and `requirements.txt` if present).
+2. Open and edit `app.py` in any editor (VS Code, Notepad++, etc.).
+3. Install requirements and run from source:
+   pip install -r requirements.txt
+   python app.py
+4. Build a new `.exe` with PyInstaller:
+   pip install pyinstaller
+   pyinstaller --onefile app.py
+   (Find the new `.exe` inside the `dist` folder.)
