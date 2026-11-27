@@ -53,6 +53,12 @@ python JustUninstallApps.py
 ## Testing & Compatibility
 
 JustUninstallApps has been tested and verified on **Windows 10**. While built for modern Windows environments, always review items carefully before uninstalling applications or cleaning system files.
+> **💡 First-Time Launch Tip:**
+> Because this is a free, independent open-source app without a paid Microsoft developer certificate, Windows may show a standard *"Windows protected your PC"* popup on the first run.
+>
+> * **Safe to run:** Click **More info** → **Run anyway** to open the app.
+> * **Verified Archive:** [View Clean VirusTotal Scan](https://www.virustotal.com/gui/file/036fccfdb65354c3dbb3480b9951924ecf33e633f9fde89540f26ad1f2747086)
+> * **100% Open Source:** You can inspect all the code right here in this repository or run `JustUninstallApps.py` directly with Python.
 
 ## License & Disclaimer
 
